@@ -3,4 +3,4 @@
 --autor: laura valentina urrego aguilera
 
 --crear base de datos 
-create database ejercicio_MER;
+create database if not exists ejercicio_MER;
